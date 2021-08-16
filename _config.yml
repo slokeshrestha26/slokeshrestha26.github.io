@@ -8,7 +8,7 @@
 # Name of website
 title: Sloke
 
-# Your name to show in the footer
+# Your name to show in the footerff
 author: Sloke Shrestha
 
 # --- List of links in the navigation bar --- #
@@ -39,13 +39,13 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "slokeshrestha131@gmail.com"
-  github: "https://github.com/slokeshrestha26"
+  github: slokeshrestha26
   # twitter: daattali
   # patreon: DeanAttali
   # youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
- linkedin: "https://www.linkedin.com/in/sloke-shrestha-he-him-his-a16b52150/"
+ linkedin: sloke-shrestha-he-him-his-a16b52150
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -59,7 +59,7 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
-  google-scholar: "https://scholar.google.com/citations?user=_Q773HcAAAAJ&hl=en"
+  google-scholar: citations?user=_Q773HcAAAAJ&hl=en
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
