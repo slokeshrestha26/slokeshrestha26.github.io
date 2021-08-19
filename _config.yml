@@ -17,7 +17,7 @@ navbar-links:
   Projects: "aboutme"
   CV/Resume:
     - CV: "/assets/docs/ShresthaCV.pdf"
-    - Request Resume: "slokeshrestha131@gmail.com"
+    - Request Resume: slokeshrestha131@gmail.com
   
 
 # --- Logo --- #
