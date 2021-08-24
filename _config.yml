@@ -15,8 +15,7 @@ author: Sloke Shrestha
 
 navbar-links:
   Projects: "projects"
-  CV/Resume:
-    - CV: "/assets/docs/ShresthaCV.pdf"
+  CV: "/assets/docs/ShresthaCV.pdf"
   
 
 # --- Logo --- #
