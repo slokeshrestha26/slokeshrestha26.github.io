@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 ---
-# <div style="text-align: right"> 2021 (Summer) - Present </div> EIT Toolkit
+# <p style="text-align: right"> 2021 (Summer) - Present </p> EIT Toolkit
 ***The goal of the project is to propose an electrical impedance tomography (EIT) toolkit for designing and fabricating health and motion sensing devices.*** <br><br>
 ***Role in the project: Running benchmark tests in the swift API that solves EIT. Adding functionality to the existing API.***
 
