@@ -23,4 +23,6 @@ title: Projects
 # Echolocation Robot 
 ### 2020 (Spring)
 ***The goal of the project was to build a robot that can avoid obstacle using ultrasonic sound emitter and receiver***<br><br>
-***Role in the Project: Implement the robot chasis. Wire the robot. Program the robot.***
+***Role in the Project: Implementing the robot chasis. Wiring the robot. Programming the robot.***
+
+<!-- todo : Insert pictures and links -->
