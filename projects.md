@@ -8,7 +8,7 @@ title: Projects
 
 
 
-# Machine Learning to Detect Cravings and Stress in Patients With Substance Use Disorder <br> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;2019 (Summer) - Present
+# Machine Learning to Detect Cravings and Stress in Patients With Substance Use Disorder <br> &ensp;2019 (Summer) - Present
 ***The goal of the project is to develop machine learning algorithms for the detection of carvings and stress in individuals with substance abuse.***<br><br>
 ***Role in the Project: Developing machine learning algorithms. Working with professional software engineers to ensure quality data flow from device to server.***
 
