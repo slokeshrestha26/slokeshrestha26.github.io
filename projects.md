@@ -25,4 +25,6 @@ title: Projects
 ***The goal of the project was to build a robot that can avoid obstacle using ultrasonic sound emitter and receiver***<br><br>
 ***Role in the Project: Implementing the robot chasis. Wiring the robot. Programming the robot.***
 
+This page is still under construciton
+
 <!-- todo : Insert pictures and links -->
