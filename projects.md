@@ -9,7 +9,7 @@ title: Projects
 I ran benchmark tests for an API written in swift that solved EIT. I also added some more functionality to the existing API
 
 <p style = "font-size: 0.9em;"> In Proceedings of UIST 2021 (to appear)</p>
-<br><br>
+<br>
 
 # Echolocation Robot 
 ### 2020 (Spring)
