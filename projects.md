@@ -36,7 +36,7 @@ title: Projects
 ***The goal of the project was to build a robot that can avoid obstacle using ultrasonic sound emitter and receiver***<br><br>
 ***Role in the Project: Implementing the robot chasis. Wiring the robot. Programming the robot.***
 
-[|video|](https://www.youtube.com/watch?v=5K78zUNMeq8) 
-[|repository|](https://github.com/slokeshrestha26/echoRobot)
+[video](https://www.youtube.com/watch?v=5K78zUNMeq8) &nbsp;&nbsp;|&nbsp;&nbsp;
+[repository](https://github.com/slokeshrestha26/echoRobot)
 
 <!-- todo : Insert pictures and links -->
