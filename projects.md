@@ -4,7 +4,7 @@ title: Projects
 ---
 # EIT Toolkit 
 ### 2021 (Summer) - Present
-***The goal of the project is to propose an electrical impedance tomography (EIT) toolkit for designing and fabricating health and motion sensing devices.*** <br><br>
+***The goal of the project is to propose an electrical impedance tomography (EIT) toolkit for designing and fabricating health and motion sensing devices.***
 
 I ran benchmark tests for an API written in swift that solved EIT. I also added some more functionality to the existing API
 
@@ -15,7 +15,7 @@ I ran benchmark tests for an API written in swift that solved EIT. I also added 
 ### 2020 (Spring)
 ![Echolocation Robot](assets/img/echo_location_robot.jpeg)
 
-***The goal of the project was to build a robot that can avoid obstacle using ultrasonic sound emitter and receiver***<br><br>
+***The goal of the project was to build a robot that can avoid obstacle using ultrasonic sound emitter and receiver***
 
 In this project, I implemented the circuitry of the robot and programmed the Arduino UNO micro-controller.
 
@@ -27,7 +27,7 @@ In this project, I implemented the circuitry of the robot and programmed the Ard
 ![Wearable Sensor Framework](assets/img/wearable_framework.png)
 <p style = "font-size: 0.5em; text-align:center;"> Image reproduced with permission from CHIA</p>
 
-***The goal of the project is to develop machine learning algorithms for the detection of carvings and stress in individuals with substance abuse.***<br><br>
+***The goal of the project is to develop machine learning algorithms for the detection of carvings and stress in individuals with substance abuse.***
 
 I have been working on developing different machine learning models that can detect stress and drug cravings in patients with substance use disorder. I am also working with [RAE Health](https://www.raehealth.com) to develop a real time intervention system for the treatment of substance use disorder.  <br><br>
 
@@ -37,7 +37,7 @@ I have been working on developing different machine learning models that can det
 ![Infant Apnea](assets/img/Infant_Apnea-1.jpg)
 <p style = "font-size: 0.5em; text-align:center;"> Image reproduced with permission from CHIA</p>
 
-***The goal of the project is to understand the physiological mechanisms associated with apnea of prematurity and develop machine learning algorithms for the prediction of life-threatening events in preterm infants.***<br><br>
+***The goal of the project is to understand the physiological mechanisms associated with apnea of prematurity and develop machine learning algorithms for the prediction of life-threatening events in preterm infants.***
 
 I have been working on developing machine learning based risk stratification algorithm for preterm infants. <br><br>
 
