@@ -4,9 +4,11 @@ title: Projects
 ---
 ### EIT Toolkit 
 ##### 2021 (Summer) - Present
+
+![EIT-Kit](assets/img/EIT-kit thumbnail.png)
 ***The goal of the project is to propose an electrical impedance tomography (EIT) toolkit for designing and fabricating health and motion sensing devices.***
 
-I ran benchmark tests for an API written in swift that solved EIT. I also added some more functionality to the existing API
+I worked on the follow-up project of the Electrical Impedance Tomography (EIT) kit. I added more features to the EIT mobile visualization API and performed benchmark tests for the image reconstruction algorithm. This project will be presented in UIST 2021.
 
 <p style = "font-size: 0.9em;"> In Proceedings of UIST 2021 (to appear)</p>
 
