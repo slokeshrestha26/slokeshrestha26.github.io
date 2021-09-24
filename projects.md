@@ -5,6 +5,7 @@ title: Projects
 ### EIT Toolkit 
 ##### 2021 (Summer) - Present
 ![EIT-Kit](assets/img/EIT-kit thumbnail.png)
+<p style = "font-size: 0.5em; text-align:center;"> Image reproduced with permission from HCIE Lab</p>
 
 ***The goal of the project is to propose an electrical impedance tomography (EIT) toolkit for designing and fabricating health and motion sensing devices.***
 
@@ -26,7 +27,7 @@ In this project, I implemented the circuitry of the robot and programmed the Ard
 ### Machine Learning to Detect Cravings and Stress in Patients With Substance Use Disorder <br> 
 ##### 2019 (Summer) - Present
 ![Wearable Sensor Framework](assets/img/wearable_framework.png)
-<p style = "font-size: 0.5em; text-align:center;"> Image reproduced with permission from CHIA</p>
+<p style = "font-size: 0.5em; text-align:center;"> Image reproduced with permission from CHIA Lab</p>
 
 ***The goal of the project is to develop machine learning algorithms for the detection of carvings and stress in individuals with substance abuse.***
 
@@ -36,7 +37,7 @@ I have been working on developing different machine learning models that can det
 
 ##### 2019 (Summer) - Present
 ![Infant Apnea](assets/img/Infant_Apnea-1.jpg)
-<p style = "font-size: 0.5em; text-align:center;"> Image reproduced with permission from CHIA</p>
+<p style = "font-size: 0.5em; text-align:center;"> Image reproduced with permission from CHIA Lab</p>
 
 ***The goal of the project is to understand the physiological mechanisms associated with apnea of prematurity and develop machine learning algorithms for the prediction of life-threatening events in preterm infants.***
 
