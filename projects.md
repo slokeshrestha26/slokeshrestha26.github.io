@@ -2,6 +2,20 @@
 layout: page
 title: Projects
 ---
+### Machine Learning to Detect Cravings and Stress in Patients With Substance Use Disorder <br> 
+##### 2019 (Summer) - Present
+![Wearable Sensor Framework](assets/img/wearable_framework.png)
+<p style = "font-size: 0.5em; text-align:center;"> Image reproduced with permission from CHIA Lab</p>
+
+***The goal of the project is to develop machine learning algorithms for the detection of carvings and stress in individuals with substance abuse.***
+
+I have been working on developing different machine learning models that can detect stress and drug cravings in patients with substance use disorder. I am also working with [RAE Health](https://www.raehealth.com) to develop a real time intervention system for the treatment of substance use disorder.  
+
+[Article 1](https://www.sciencedirect.com/science/article/pii/S0376871620300946) &nbsp;&nbsp;|&nbsp;&nbsp;
+[Article 2](https://jpbs.hapres.com/htmls/JPBS_1370_Detail.html)
+<br><br>
+
+
 ### EIT Toolkit 
 ##### 2021 (Summer) - Present
 ![EIT-Kit](assets/img/EIT-kit thumbnail.png)
@@ -12,6 +26,7 @@ title: Projects
 I worked on the follow-up project of the Electrical Impedance Tomography (EIT) kit. I added more features to the EIT mobile visualization API and performed benchmark tests for the image reconstruction algorithm.
 
 <p style = "font-size: 0.9em;"> In Proceedings of UIST 2021 (to appear)</p>
+
 
 ### Echolocation Robot 
 ##### 2020 (Spring)
@@ -24,14 +39,6 @@ In this project, I implemented the circuitry of the robot and programmed the Ard
 [video](https://www.youtube.com/watch?v=5K78zUNMeq8) &nbsp;&nbsp;|&nbsp;&nbsp;
 [repository](https://github.com/slokeshrestha26/echoRobot)<br><br>
 
-### Machine Learning to Detect Cravings and Stress in Patients With Substance Use Disorder <br> 
-##### 2019 (Summer) - Present
-![Wearable Sensor Framework](assets/img/wearable_framework.png)
-<p style = "font-size: 0.5em; text-align:center;"> Image reproduced with permission from CHIA Lab</p>
-
-***The goal of the project is to develop machine learning algorithms for the detection of carvings and stress in individuals with substance abuse.***
-
-I have been working on developing different machine learning models that can detect stress and drug cravings in patients with substance use disorder. I am also working with [RAE Health](https://www.raehealth.com) to develop a real time intervention system for the treatment of substance use disorder.  <br><br>
 
 ### Machine Learning Algorithms for the Prediction of Bradycardia Risk in Preterm Infants <br>
 
