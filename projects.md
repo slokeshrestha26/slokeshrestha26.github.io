@@ -36,8 +36,8 @@ I worked on the follow-up project of the Electrical Impedance Tomography (EIT) k
 
 In this project, I implemented the circuitry of the robot and programmed the Arduino UNO micro-controller.
 
-[video](https://www.youtube.com/watch?v=5K78zUNMeq8) &nbsp;&nbsp;|&nbsp;&nbsp;
-[repository](https://github.com/slokeshrestha26/echoRobot)<br><br>
+[Video](https://www.youtube.com/watch?v=5K78zUNMeq8) &nbsp;&nbsp;|&nbsp;&nbsp;
+[Repository](https://github.com/slokeshrestha26/echoRobot)<br><br>
 
 
 ### Machine Learning Algorithms for the Prediction of Bradycardia Risk in Preterm Infants <br>
