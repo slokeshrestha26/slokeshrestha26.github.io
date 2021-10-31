@@ -25,7 +25,7 @@ I have been working on developing different machine learning models that can det
 
 I worked on the follow-up project of the Electrical Impedance Tomography (EIT) kit. I added more features to the EIT mobile visualization API and performed benchmark tests for the image reconstruction algorithm.
 
-<p style = "font-size: 0.9em;"> In Proceedings of UIST 2021 (to appear)</p>
+<!-- <p style = "font-size: 0.9em;"> In Proceedings of UIST 2021 (to appear)</p> -->
 
 
 ### Echolocation Robot 
