@@ -3,7 +3,7 @@ layout: page
 title: Projects
 ---
 ### Machine Learning to Detect Cravings and Stress in Patients With Substance Use Disorder <br> 
-##### 2019 (Summer) - Present
+##### 2019 - 2022
 ![Wearable Sensor Framework](assets/img/wearable_framework.png)
 <p style = "font-size: 0.5em; text-align:center;"> Image reproduced with permission from CHIA Lab</p>
 
@@ -17,7 +17,7 @@ I have been working on developing different machine learning models that can det
 
 
 ### EIT Toolkit 
-##### 2021 (Summer) - Present
+##### 2021
 ![EIT-Kit](assets/img/EIT-kit thumbnail.png)
 <p style = "font-size: 0.5em; text-align:center;"> Image reproduced with permission from HCIE Lab</p>
 
@@ -29,7 +29,7 @@ I worked on the follow-up project of the Electrical Impedance Tomography (EIT) k
 
 
 ### Echolocation Robot 
-##### 2020 (Spring)
+##### 2020
 ![Echolocation Robot](assets/img/echo_location_robot.jpeg)
 
 ***The goal of the project was to build a robot that can avoid obstacle using ultrasonic sound emitter and receiver***
@@ -42,7 +42,7 @@ In this project, I implemented the circuitry of the robot and programmed the Ard
 
 ### Machine Learning Algorithms for the Prediction of Bradycardia Risk in Preterm Infants <br>
 
-##### 2019 (Summer) - Present
+##### 2019 - 2020
 ![Infant Apnea](assets/img/Infant_Apnea-1.jpg)
 <p style = "font-size: 0.5em; text-align:center;"> Image reproduced with permission from CHIA Lab</p>
 
