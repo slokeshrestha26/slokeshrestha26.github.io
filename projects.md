@@ -2,12 +2,16 @@
 layout: page
 title: Projects
 ---
+### Wearable Framework for physiological data aquisition <br>
+#### 2022
+
+
 ### Machine Learning to Detect Cravings and Stress in Patients With Substance Use Disorder <br> 
 ##### 2019 - 2022
 ![Wearable Sensor Framework](assets/img/wearable_framework.png)
 <p style = "font-size: 0.5em; text-align:center;"> Image reproduced with permission from CHIA Lab</p>
 
-***The goal of the project is to develop machine learning algorithms for the detection of carvings and stress in individuals with substance abuse.***
+***The goal of the project was to develop machine learning algorithms for the detection of carvings and stress in individuals with substance abuse.***
 
 I have been working on developing different machine learning models that can detect stress and drug cravings in patients with substance use disorder. I am also working with [RAE Health](https://www.raehealth.com) to develop a real time intervention system for the treatment of substance use disorder.  
 
