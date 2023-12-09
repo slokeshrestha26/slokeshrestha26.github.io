@@ -9,6 +9,10 @@ title: Projects
 
 Technology used: Python, HuggingFace, OpenCV, Numpy*
 
+[Repository](https://github.com/slokeshrestha26/dip_comics_diffusion) &nbsp;&nbsp;|&nbsp;&nbsp;
+[Video](https://www.youtube.com/watch?v=kMGjOr974vE) &nbsp;&nbsp;|&nbsp;&nbsp;
+[Report](http://arxiv.org/abs/2312.03993)
+
 ### LLMs Powered Egocentric Image Annotation Web Application
 ##### 2023
 ![LLMs powered Egocentric Image](assets/img/llm_app.png)
@@ -23,9 +27,9 @@ Technology used: Python, Flask, HTML, CSS, JavaScript, Bootstrap, MySQL, Hugging
 
 *I worked with the team at UT Tyler and RAE Health(https://www.raehealth.com) to develop a machine learning algorithm to detect stress and cravings in patients with substance use disorder. We published in three major venues.*
 
-![](assets/img/document.png)(https://www.sciencedirect.com/science/article/pii/S0376871620300946) &nbsp;&nbsp;|&nbsp;&nbsp;
-![](assets/img/document.png)(https://jpbs.hapres.com/htmls/JPBS_1370_Detail.html) &nbsp;&nbsp;|&nbsp;&nbsp;
-![](assets/img/document.png)(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9925294/) &nbsp;&nbsp;|&nbsp;&nbsp;
+[Article 1](https://www.sciencedirect.com/science/article/pii/S0376871620300946) &nbsp;&nbsp;|&nbsp;&nbsp;
+[Article 2](https://jpbs.hapres.com/htmls/JPBS_1370_Detail.html) &nbsp;&nbsp;|&nbsp;&nbsp;
+[Article 3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9925294/) &nbsp;&nbsp;|&nbsp;&nbsp;
 <br><br>
 
 
