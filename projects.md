@@ -5,7 +5,8 @@ title: Projects
 ### Style Transfer Using Diffusion
 ##### 2023
 ![Style Transfer Using Diffusion](assets/img/style_transfer_cnh.png)
-*We fine tuned stable diffusion to a Calvin and Hobbes dataset. We won the EE 371Q Digital Image Processing Ram’s Horn best project award!! EE 371Q is a famous class taught by [Prof. Alan Bovik](https://www.ece.utexas.edu/people/faculty/alan-bovik) at University of Texas at Austin. <br><br>
+*We fine tuned stable diffusion to a Calvin and Hobbes dataset. We won the EE 371Q Digital Image Processing **Ram’s Horn best project award!!** EE 371Q is a famous class taught by [Prof. Alan Bovik](https://www.ece.utexas.edu/people/faculty/alan-bovik) at University of Texas at Austin. <br><br>
+
 Technology used: Python, HuggingFace, OpenCV, Numpy*
 
 [Repository](https://github.com/slokeshrestha26/dip_comics_diffusion) &nbsp;&nbsp;|&nbsp;&nbsp;
@@ -16,6 +17,8 @@ Technology used: Python, HuggingFace, OpenCV, Numpy*
 ##### 2023
 ![LLMs powered Egocentric Image](assets/img/llm_app.png)
 *I developed a web application in Flask where a user can log in, and perform studies. The user gets an egocentric image from a camera wearer. Along with the images, the user also gets a list of possible activities that the camera wearer might be performing. The suggestions are powered by large language models (LLMs). The user can select the activity that best describes the image. <br><br>Technology used: Python, Flask, HTML, CSS, JavaScript, Bootstrap, MySQL, HuggingFace, Pandas, Numpy* <br><br>
+[Repository](https://github.com/slokeshrestha26/llm_annotation_ui)<br><br>
+
 
 ### Machine Learning to Detect Cravings and Stress in Patients With Substance Use Disorder <br> 
 ##### 2019 - 2022
