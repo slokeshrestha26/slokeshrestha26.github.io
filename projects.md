@@ -35,7 +35,7 @@ Technology used: Python, Flask, HTML, CSS, JavaScript, Bootstrap, MySQL, Hugging
 
 ### EIT Toolkit 
 ##### 2021
-![EIT-Kit](assets/img/EIT-kit thumbnail.png)
+![EIT-Kit]("assets/img/EIT-kit thumbnail.png")
 <p style = "font-size: 0.5em; text-align:center;"> Image reproduced with permission from HCIE Lab</p>
 
 *I worked with researchers at MIT to benchmark different image reconstruction algorithms for electrical impedance tomography (EIT). I implemented image reconstruction algorithms in the toolkit called [EIT-KIT](https://github.com/HCIELab/EIT-kit_open-source). Our team submitted a strong rebuttal at UIST and published it.
