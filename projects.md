@@ -22,7 +22,7 @@ Technology used: Python, HuggingFace, OpenCV, Numpy*
 ![Wearable Sensor Framework](assets/img/wearable_framework.png)
 <p style = "font-size: 0.5em; text-align:center;"> </p>
 
-*I worked with the team at UT Tyler and RAE Health(https://www.raehealth.com) to develop a machine learning algorithm to detect stress and cravings in patients with substance use disorder. We published in three major venues.<br> Technology used: Python, MATLAB, Pandas, Numpy, Scikit-Learn*
+*I worked with the team at UT Tyler and RAE Health(https://www.raehealth.com) to develop a machine learning algorithm to detect stress and cravings in patients with substance use disorder. We published in three major venues.<br><br>Technology used: Python, MATLAB, Pandas, Numpy, Scikit-Learn*
 
 [Article 1](https://www.sciencedirect.com/science/article/pii/S0376871620300946) &nbsp;&nbsp;|&nbsp;&nbsp;
 [Article 2](https://jpbs.hapres.com/htmls/JPBS_1370_Detail.html) &nbsp;&nbsp;|&nbsp;&nbsp;
@@ -35,7 +35,7 @@ Technology used: Python, HuggingFace, OpenCV, Numpy*
 ![EIT-Kit](assets/img/EIT-kit thumbnail.png)
 <p style = "font-size: 0.5em; text-align:center;"></p>
 
-*I worked with researchers at MIT to benchmark different image reconstruction algorithms for electrical impedance tomography (EIT). I implemented image reconstruction algorithms in the toolkit called [EIT-KIT](https://github.com/HCIELab/EIT-kit_open-source). Our team submitted a strong rebuttal at UIST and published it. <br>Technology used: Python, Swift, XCode, Numpy, Pandas*<br><br>
+*I worked with researchers at MIT to benchmark different image reconstruction algorithms for electrical impedance tomography (EIT). I implemented image reconstruction algorithms in the toolkit called [EIT-KIT](https://github.com/HCIELab/EIT-kit_open-source). Our team submitted a strong rebuttal at UIST and published it. <br><br>Technology used: Python, Swift, XCode, Numpy, Pandas*<br><br>
 
 <!-- <p style = "font-size: 0.9em;"> In Proceedings of UIST 2021 (to appear)</p> -->
 
@@ -45,7 +45,7 @@ Technology used: Python, HuggingFace, OpenCV, Numpy*
 ![Echolocation Robot](assets/img/echo_location_robot.jpeg)
 
 *At UT Tyler, we (team of 3) built a robot that can avoid obstacles using ultrasonic sound emitter and receiver.
-Technology used: Arduino UNO, C*
+<br><br>Technology used: Arduino UNO, C*
 
 [Video](https://www.youtube.com/watch?v=5K78zUNMeq8) &nbsp;&nbsp;|&nbsp;&nbsp;
 [Repository](https://github.com/slokeshrestha26/echoRobot)<br><br>
@@ -58,7 +58,7 @@ Technology used: Arduino UNO, C*
 <p style = "font-size: 0.5em; text-align:center;"></p>
 
 *I worked on developing machine learning based risk stratification algorithm to predict life-threatening events in preterm infants.
-Technology used: MATLAB, Python*
+<br><br>Technology used: MATLAB, Python*
 <br><br>
 
 <!-- todo : Insert pictures and links -->
